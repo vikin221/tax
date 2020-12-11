@@ -33,8 +33,8 @@ const dateFormat = require('dateformat');
 
 
 
-const prefix = ""
-const developers = ""
+const prefix = "%"
+const developers = "496687637143355392"
 
 ////////
 
@@ -65,4 +65,4 @@ client.on("message" , message => {
     }
 });
 
-client.login("");
+client.login("Nzg2OTM4MTcxODQ0OTg0ODcz.X9NrSA.KHFqwrfVeWBLlpH0rneOTgsc1ZM");
